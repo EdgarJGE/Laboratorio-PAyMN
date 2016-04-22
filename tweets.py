@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
-fo = open("", "r")
+fo = open("tweets.txt", "r")
 
 str=fo.read()
 
